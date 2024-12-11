@@ -1,5 +1,5 @@
-**C_Shell_OSN
-**The objective of this mini-project is to build a custom shell in C, mimicking the behavior of popular shells like Bash. A shell serves as an interface between the user and the operating system, enabling command execution, process management, and system interaction. Through this project, the aim is to gain hands-on experience with core system programming concepts, such as system calls, process handling, and modular code design.
+# C_Shell_OSN
+The objective of this mini-project is to build a custom shell in C, mimicking the behavior of popular shells like Bash. A shell serves as an interface between the user and the operating system, enabling command execution, process management, and system interaction. Through this project, the aim is to gain hands-on experience with core system programming concepts, such as system calls, process handling, and modular code design.
 
 **Progress-**
 Working on basic system calls-
